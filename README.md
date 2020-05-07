@@ -45,5 +45,5 @@ Run container manually:
 
 az acr run --registry $ACR_NAME   --cmd '$Registry/[image-name]:[image-version]' /dev/null    
 
-Run task on schedule https://docs.microsoft.com/en-us/azure/container-registry/container-registry-tasks-scheduled
+Run the task on schedule https://docs.microsoft.com/en-us/azure/container-registry/container-registry-tasks-scheduled
 
